@@ -1,0 +1,16 @@
+﻿# Visual Studio build folders
+bin/
+obj/
+.vs/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# User-specific files
+*.user
+*.suo
+
+# Logs / Temporary
+*.log
